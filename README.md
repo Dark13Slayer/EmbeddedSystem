@@ -11,17 +11,17 @@ Finally, an LED should indicate the system's operational status.
 
 Components Used:
 
-  DHT11 Sensor
-  PIR Motion Sensor
-  Voltage Regulator
-  Axial Fan
-  RFID Module
-  Jumper Wires
-  ESP32
-  Arduino Nano
-  Breadboard
-  OLED 128x64 Display
-  Electric Door Lock
+    DHT11 Sensor
+    PIR Motion Sensor
+    Voltage Regulator
+    Axial Fan
+    RFID Module
+    Jumper Wires
+    ESP32
+    Arduino Nano
+    Breadboard
+    OLED 128x64 Display
+    Electric Door Lock
 
 Instructions:
 
